@@ -1,0 +1,17 @@
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.csproj.AssemblyReference.cache
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.UserLogin.resources
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.Properties.Resources.resources
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.csproj.GenerateResource.cache
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\bin\Debug\TestTicTacToe.exe.config
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\bin\Debug\TestTicTacToe.exe
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\bin\Debug\TestTicTacToe.pdb
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\bin\Debug\WebDriver.dll
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\bin\Debug\WebDriver.Support.dll
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.csproj.CopyComplete
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.exe
+C:\Users\achiy\source\repos\TestTicTacToe\TestTicTacToe\obj\Debug\TestTicTacToe.pdb
